@@ -1,7 +1,7 @@
 <?php
 $servidor ="localhost";
 $usuario = "root";
-$senha = "Italo@1989";
+$senha ="insira senha do banco de dados";
 $dbname="cadastro";
 
 $conexao=mysqli_connect($servidor, $usuario, $senha, $dbname);
